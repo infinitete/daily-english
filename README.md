@@ -264,3 +264,4 @@ Maildir: /INBOX
   
 scratch  
 transient  
+CONFIG_SUFFIX  
