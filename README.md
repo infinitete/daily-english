@@ -266,3 +266,5 @@ scratch
 transient  
 CONFIG_SUFFIX  
 wheel  
+func  
+canonical  
