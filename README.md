@@ -268,3 +268,4 @@ CONFIG_SUFFIX
 wheel  
 func  
 canonical  
+type  
